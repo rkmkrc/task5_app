@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  task5_app
+
+  Created by Erkam Karaca on 2.09.2023.
+  
+*/
+
+"first_tab" = "Alarmlar";
+"second_tab" = "Ayarlar";
+"select_song" = "Müzik Seç";
+"sounds" = "Sesler";
+"playlists" = "Oynatma Listeleri";
+"songs" = "Şarkılar";
